@@ -4,7 +4,7 @@
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
-	"author": "Eric Lima"
+	"author": "Eric Lima",
 	"scripts": {
 		"start": "node server.js"
 	},

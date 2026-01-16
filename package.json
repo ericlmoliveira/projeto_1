@@ -6,6 +6,7 @@
 	"main": "server.js",
 	"author": "Eric Lima",
 	"description": "A project that does something awesome",
+	"keywords": ["freecodecamp", "node", "npm", "project"],
 	"scripts": {
 		"start": "node server.js"
 	},

@@ -7,6 +7,8 @@
 	"author": "Eric Lima",
 	"description": "A project that does something awesome",
 	"keywords": ["freecodecamp", "node", "npm", "project"],
+	"license": "MIT",
+	"version": "1.0.0",
 	"scripts": {
 		"start": "node server.js"
 	},

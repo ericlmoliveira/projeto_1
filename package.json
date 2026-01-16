@@ -5,6 +5,7 @@
 	},
 	"main": "server.js",
 	"author": "Eric Lima",
+	"description": "A project that does something awesome",
 	"scripts": {
 		"start": "node server.js"
 	},
